@@ -5,5 +5,7 @@ public class Main {
       GitLesson gl=new GitLesson();
       gl.gitLesson();
       System.out.println("Game is over!");
+      Word wd=new Word();
+      wd.printWord();
     }
 }
